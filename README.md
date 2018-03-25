@@ -4,3 +4,7 @@ Chat communicator with GUI - previous version.
 Made using Java Swing framework.
 
 Current version and the list of all features also responding to this project are [here](https://github.com/michal-olt/Communicator).
+
+## Screenshots
+
+![Screeshot1](https://i.imgur.com/mBelH8a.png)
